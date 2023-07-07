@@ -27,7 +27,7 @@ BaSyx Python SDK is hosted in [basyx-python-sdk](https://github.com/eclipse-basy
 BaSyx .Net is hosted in [basyx-dotnet](https://github.com/eclipse-basyx/basyx-dotnet).
 
 ## Eclipse BaSyx Rust
-BaSyx Rust SDK is hosted in [basyx-rust-sdk](https://github.com/eclipse-basyx/basyx-rust-sdk).
+BaSyx Rust SDK is hosted in [basyx-rust-sdk](https://github.com/eclipse-basyx/basyx-rust-sdk). The SDK can be consumed via [crates.io](https://crates.io/crates/basyx-rs). Starting from crate version 0.2.x, it is fully compliant with the Specification of the Asset Administration Shell (Part 1: Metamodel) Version 3. 
 
 ## Eclipse BaSyx C++
 BaSyx C++ SDK is hosted in [basyx-cpp-sdk](https://github.com/eclipse-basyx/basyx-cpp-sdk).
