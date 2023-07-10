@@ -21,7 +21,10 @@ BaSyx Java V1 is fully compliant with Details of the AAS Part 1 V2.0.1 and defin
 For its documentation, see [BaSyx Wiki](https://wiki.eclipse.org/BaSyx) as well as [basyx-java-examples](https://github.com/eclipse-basyx/basyx-java-examples).
 
 ## Eclipse BaSyx Python
-BaSyx Python SDK is hosted in [basyx-python-sdk](https://github.com/eclipse-basyx/basyx-python-sdk).
+BaSyx Python v0.2.2 is fully compliant to [version 2.0.1 of the AAS specification](https://www.plattform-i40.de/IP/Redaktion/DE/Downloads/Publikation/Details_of_the_Asset_Administration_Shell_Part1_V2.pdf?__blob=publicationFile&v=6) and can be found in [basyx-python-sdk](https://github.com/eclipse-basyx/basyx-python-sdk). 
+The Python SDK comes with `JSON`, `XML` and `AASX` adapters, a compliance tool, backend infrastructure and extensive [documentation](https://basyx-python-sdk.readthedocs.io/en/latest/) 
+
+The current development status for the [AAS specification version 3.0](https://industrialdigitaltwin.org/wp-content/uploads/2023/06/IDTA-01001-3-0_SpecificationAssetAdministrationShell_Part1_Metamodel.pdf) can be found on [this branch](https://github.com/eclipse-basyx/basyx-python-sdk/tree/improve/V30).
 
 ## Eclipse BaSyx .Net
 BaSyx .Net is hosted in [basyx-dotnet](https://github.com/eclipse-basyx/basyx-dotnet).
