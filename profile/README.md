@@ -15,7 +15,7 @@
 Eclipse BaSyx hosts a multitude SDKs, components and applications. These include:
 
 ## Eclipse BaSyx Java
-BaSyx Java V2 is fully compliant with Specification of the Asset Administration Shell Version 3. Its SDK, off-the-shelf components and documentation are contained in [basyx-java-server-sdk](https://github.com/eclipse-basyx/basyx-java-server-sdk).
+BaSyx Java V2 is fully compliant with Specification of the Asset Administration Shell Version 3. Its SDK, off-the-shelf components, documentation and examples are contained in [basyx-java-server-sdk](https://github.com/eclipse-basyx/basyx-java-server-sdk).
 
 BaSyx Java V1 is fully compliant with Details of the AAS Part 1 V2.0.1 and defines its own [API](https://app.swaggerhub.com/organizations/BaSyx). The SDK Is contained in [basyx-java-sdk](https://github.com/eclipse-basyx/basyx-java-sdk), its off-the-shelf components are provided in [basyx-java-components](https://github.com/eclipse-basyx/basyx-java-components).
 For its documentation, see [BaSyx Wiki](https://wiki.eclipse.org/BaSyx) as well as [basyx-java-examples](https://github.com/eclipse-basyx/basyx-java-examples).
