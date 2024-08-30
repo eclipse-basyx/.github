@@ -24,7 +24,7 @@ The [BaSyx-Python-SDK](https://github.com/eclipse-basyx/basyx-python-sdk) is an 
 It comes with JSON, XML and AASX adapters, a compliance tool, backend infrastructure and extensive [documentation](https://basyx-python-sdk.readthedocs.io/en/latest/)
 
 
-### Eclipse BaSyx .Net
+## Eclipse BaSyx .Net
 BaSyx .Net is hosted in [basyx-dotnet](https://github.com/eclipse-basyx/basyx-dotnet).
 
 
