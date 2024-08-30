@@ -23,6 +23,11 @@ For its documentation, see [BaSyx Wiki](http://basyx-wiki.readthedocs.io/).
 The [BaSyx-Python-SDK](https://github.com/eclipse-basyx/basyx-python-sdk) is an implementation of the specification of the  Asset Administration Shell in Python 3. 
 It comes with JSON, XML and AASX adapters, a compliance tool, backend infrastructure and extensive [documentation](https://basyx-python-sdk.readthedocs.io/en/latest/)
 
+
+### Eclipse BaSyx .Net
+BaSyx .Net is hosted in [basyx-dotnet](https://github.com/eclipse-basyx/basyx-dotnet).
+
+
 ## Eclipse BaSyx Rust
 BaSyx Rust SDK is hosted in [basyx-rust-sdk](https://github.com/eclipse-basyx/basyx-rust-sdk). The SDK can be consumed via [crates.io](https://crates.io/crates/basyx-rs). Starting from crate version 0.2.x, it is fully compliant with the Specification of the Asset Administration Shell (Part 1: Metamodel) Version 3. 
 
@@ -41,6 +46,3 @@ For its documentation, see [BaSyx Wiki](http://basyx-wiki.readthedocs.io/) as we
 
 ### Eclipse BaSyx C++
 BaSyx C++ SDK is hosted in [basyx-cpp-sdk](https://github.com/eclipse-basyx/basyx-cpp-sdk).
-
-### Eclipse BaSyx .Net
-BaSyx .Net is hosted in [basyx-dotnet](https://github.com/eclipse-basyx/basyx-dotnet).
