@@ -17,25 +17,28 @@ Eclipse BaSyx hosts a multitude SDKs, components and applications. These include
 ## Eclipse BaSyx Java
 BaSyx Java V2 is fully compliant with Specification of the Asset Administration Shell Version 3. Its SDK, off-the-shelf components, documentation and examples are contained in [basyx-java-server-sdk](https://github.com/eclipse-basyx/basyx-java-server-sdk).
 
-For its documentation, see [BaSyx Wiki](http://basyx-wiki.readthedocs.io/).
+For its documentation, see [BaSyx Wiki](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/v2/index.html).
 
 ## Eclipse BaSyx Python
 The [BaSyx-Python-SDK](https://github.com/eclipse-basyx/basyx-python-sdk) is an implementation of the specification of the  Asset Administration Shell in Python 3. 
 It comes with JSON, XML and AASX adapters, a compliance tool, backend infrastructure and extensive [documentation](https://basyx-python-sdk.readthedocs.io/en/latest/)
 
-
 ## Eclipse BaSyx .Net
 BaSyx .Net is hosted in [basyx-dotnet](https://github.com/eclipse-basyx/basyx-dotnet).
 
-
 ## Eclipse BaSyx Rust
 BaSyx Rust SDK is hosted in [basyx-rust-sdk](https://github.com/eclipse-basyx/basyx-rust-sdk). The SDK can be consumed via [crates.io](https://crates.io/crates/basyx-rs). Starting from crate version 0.2.x, it is fully compliant with the Specification of the Asset Administration Shell (Part 1: Metamodel) Version 3. 
+
+## Eclipse BaSyx AAS Web UI
+Visualize and interact with AAS in a user friendly way. The AAS Web UI allows easy management of AAS, Submodels and ConceptDescriptions while using the BaSyx off-the-shelf components. The source code is hosted in [basyx-aas-web-ui](https://github.com/eclipse-basyx/basyx-aas-web-ui).
+
+For its documentation, see [BaSyx Wiki](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/web_ui/index.html).
 
 ## Eclipse BaSyx DataBridge
 Integrating existing assets with AAS has never been easier. Leverage the powerful DataBridge provided in [basyx-databridge](https://github.com/eclipse-basyx/basyx-databridge) for achieving quick integration without any programming expertise needed.
 
 ## Eclipse BaSyx Applications
-BaSyx provides versatile applications, e.g., for AAS visualization or OPC UA integration on-the-fly. The code for them is hosted in [basyx-applications](https://github.com/eclipse-basyx/basyx-applications).
+BaSyx provides versatile applications, e.g., for database connections or OPC UA integration on-the-fly. The code for them is hosted in [basyx-applications](https://github.com/eclipse-basyx/basyx-applications).
 
 ## Metamodel V2.0.1 SDKs (Deprecated)
 Additionally to the SDKs supporting Version 3 of the API and metamodel, BaSyx provides SDKs for metamodel V2.0.1. However, since this version of the metamodel is deprecated, we strongly recommend using the SDKs listed above. 
