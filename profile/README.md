@@ -17,6 +17,7 @@
 - [Repository Overview](#repository-overview)
   - [Eclipse BaSyx Java](#eclipse-basyx-java)
   - [Eclipse BaSyx Python](#eclipse-basyx-python)
+  - [Eclipse BaSyx TypeScript](#eclipse-basyx-typescript)
   - [Eclipse BaSyx .Net](#eclipse-basyx-net)
   - [Eclipse BaSyx Rust](#eclipse-basyx-rust)
   - [Eclipse BaSyx AAS Web UI](#eclipse-basyx-aas-web-ui)
@@ -46,6 +47,10 @@ For its documentation, see [BaSyx Wiki](https://wiki.basyx.org/en/latest/content
 ### Eclipse BaSyx Python
 The [BaSyx-Python-SDK](https://github.com/eclipse-basyx/basyx-python-sdk) is an implementation of the specification of the  Asset Administration Shell in Python 3. 
 It comes with JSON, XML and AASX adapters, a compliance tool, backend infrastructure and extensive [documentation](https://basyx-python-sdk.readthedocs.io/en/latest/)
+
+### Eclipse BaSyx TypeScript
+The [BaSyx-TypeScript-SDK](https://github.com/eclipse-basyx/basyx-typescript-sdk) provides client functionalities fully compliant with the Asset Administration Shell Version 3.
+It is intended to be used to develop web applications using Typescript. In addition, it also provides useful utility functions for working with AAS data.
 
 ### Eclipse BaSyx .Net
 BaSyx .Net is hosted in [basyx-dotnet](https://github.com/eclipse-basyx/basyx-dotnet).
