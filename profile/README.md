@@ -23,7 +23,7 @@
   - [Eclipse BaSyx AAS Web UI](#eclipse-basyx-aas-web-ui)
   - [Eclipse BaSyx DataBridge](#eclipse-basyx-databridge)
   - [Eclipse BaSyx Applications](#eclipse-basyx-applications)
-  - [Eclipse BaSyx Helm Charts](#eclipse-basyx-charts)
+  - [Eclipse BaSyx Helm Charts](#eclipse-basyx-helm-charts)
 - [Metamodel V2.0.1 SDKs (Deprecated)](#metamodel-v201-sdks-deprecated)
 
 ---
