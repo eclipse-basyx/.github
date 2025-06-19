@@ -23,6 +23,7 @@
   - [Eclipse BaSyx AAS Web UI](#eclipse-basyx-aas-web-ui)
   - [Eclipse BaSyx DataBridge](#eclipse-basyx-databridge)
   - [Eclipse BaSyx Applications](#eclipse-basyx-applications)
+  - [Eclipse BaSyx Helm Charts](#eclipse-basyx-charts)
 - [Metamodel V2.0.1 SDKs (Deprecated)](#metamodel-v201-sdks-deprecated)
 
 ---
@@ -68,6 +69,9 @@ Integrating existing assets with AAS has never been easier. Leverage the powerfu
 
 ### Eclipse BaSyx Applications
 BaSyx provides versatile applications, e.g., for database connections or OPC UA integration on-the-fly. The code for them is hosted in [basyx-applications](https://github.com/eclipse-basyx/basyx-applications).
+
+### Eclipse BaSyx Helm Charts
+This repository includes Helm Charts for all BaSyx components. You can find the Helm Charts in the [charts repository](https://github.com/eclipse-basyx/charts).
 
 ---
 
