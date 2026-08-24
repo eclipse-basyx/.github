@@ -22,9 +22,10 @@
   - [Eclipse BaSyx .Net](#eclipse-basyx-net)
   - [Eclipse BaSyx Rust](#eclipse-basyx-rust)
   - [Eclipse BaSyx AAS Web UI](#eclipse-basyx-aas-web-ui)
-  - [Eclipse BaSyx DataBridge](#eclipse-basyx-databridge)
   - [Eclipse BaSyx Applications](#eclipse-basyx-applications)
   - [Eclipse BaSyx Helm Charts](#eclipse-basyx-helm-charts)
+- [Deprecated, Outdated, and End-of-Life Services](#deprecated-outdated-and-end-of-life-services)
+  - [Eclipse BaSyx DataBridge](#eclipse-basyx-databridge)
 - [Metamodel V2.0.1 SDKs (Deprecated)](#metamodel-v201-sdks-deprecated)
 
 ---
@@ -68,14 +69,20 @@ Visualize and interact with AAS in a user friendly way. The AAS Web UI allows ea
 
 For its documentation, see [BaSyx Wiki](https://wiki.basyx.org/en/latest/content/user_documentation/basyx_components/web_ui/index.html).
 
-### Eclipse BaSyx DataBridge
-Integrating existing assets with AAS has never been easier. Leverage the powerful DataBridge provided in [basyx-databridge](https://github.com/eclipse-basyx/basyx-databridge) for achieving quick integration without any programming expertise needed.
-
 ### Eclipse BaSyx Applications
 BaSyx provides versatile applications, e.g., for database connections or OPC UA integration on-the-fly. The code for them is hosted in [basyx-applications](https://github.com/eclipse-basyx/basyx-applications).
 
 ### Eclipse BaSyx Helm Charts
 This repository includes Helm Charts for all BaSyx components. You can find the Helm Charts in the [charts repository](https://github.com/eclipse-basyx/charts).
+
+---
+
+## Deprecated, Outdated, and End-of-Life Services
+> [!WARNING]
+> These services are deprecated, outdated, or have reached end of life. They are no longer maintained and should not be used for new projects.
+
+### Eclipse BaSyx DataBridge
+[BaSyx DataBridge](https://github.com/eclipse-basyx/basyx-databridge) has reached end of life and is no longer maintained. For maintained alternatives, we recommend using [Node-RED](https://nodered.org/) or [Apache Camel](https://camel.apache.org/) directly.
 
 ---
 
